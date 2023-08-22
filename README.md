@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mirwasimkhan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on c# core concepts
+- 🌱 Senior Software Engineer
 - 📫 Reach me at mirwasimkhan@gmail.com
+- LinkedIn https://www.linkedin.com/in/m-waseem-khan-80910910a/
 
 <!---
 mirwasimkhan/mirwasimkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
